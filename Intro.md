@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH209 - 20th Century Art"
+course: ARTH209
+course_fulltitle: "20th Century Art"
+course_description: "Examination of the cultural and artistic developments of the twentieth century in Europe and the United States, surveying the artwork of Cubism, Fauvism, Futurism, Expressionism, Dadaism, Surrealism, Pop Art, and Op-Art, and Modern and Postmodern architecture."
+---
 Course Syllabus for "ARTH209: 20<sup>th</sup> Century Art"
 ----------------------------------------------------------
 

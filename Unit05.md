@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH209 - 20th Century Art"
+course: ARTH209
+course_fulltitle: "20th Century Art"
+course_description: "Examination of the cultural and artistic developments of the twentieth century in Europe and the United States, surveying the artwork of Cubism, Fauvism, Futurism, Expressionism, Dadaism, Surrealism, Pop Art, and Op-Art, and Modern and Postmodern architecture."
+---
 **Unit 5: Dada and Surrealism** <span id="5"></span> 
 *This unit focuses on Dada and Surrealism during the period from 1917 to
 1930. Like the artists associated with Suprematism and Constructivism in
