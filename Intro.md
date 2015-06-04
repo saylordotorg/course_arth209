@@ -174,3 +174,20 @@ questions:
 -   What inspired or influenced each of the artists or movements and
     why?
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth209/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth209/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth209/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth209/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth209/Unit05/)
+- [Unit 6](https://legacy.saylor.org/arth209/Unit06/)
+- [Unit 7](https://legacy.saylor.org/arth209/Unit07/)
+- [Unit 8](https://legacy.saylor.org/arth209/Unit08/)
+- [Unit 9](https://legacy.saylor.org/arth209/Unit09/)
+- [Unit 10](https://legacy.saylor.org/arth209/Unit10/)
+- [Unit 11](https://legacy.saylor.org/arth209/Unit11/)
+- [Unit 12](https://legacy.saylor.org/arth209/Unit12/)
+- [Unit 13](https://legacy.saylor.org/arth209/Unit13/)
+- [Unit 14](https://legacy.saylor.org/arth209/Unit14/)
+- [Unit 15](https://legacy.saylor.org/arth209/Unit15/)
