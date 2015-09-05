@@ -9,6 +9,16 @@ bgimage: arth209.jpg
 Course Syllabus for "ARTH209: 20<sup>th</sup> Century Art"
 ----------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_arth209) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course explores the history of the artistic developments of the
 20<sup>th</sup> century in Western Europe and the United States. The art
 of this period is characterized by extraordinary experimentation and
