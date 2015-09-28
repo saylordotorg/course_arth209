@@ -191,3 +191,4 @@ questions:
 - [Unit 13](https://legacy.saylor.org/arth209/Unit13/)
 - [Unit 14](https://legacy.saylor.org/arth209/Unit14/)
 - [Unit 15](https://legacy.saylor.org/arth209/Unit15/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH209/ARTH209-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH209/ARTH209-FinalExam-Answers.html)
