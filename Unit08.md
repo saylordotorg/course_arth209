@@ -308,7 +308,7 @@ id="8.3"></span> 
 **8.3.2 George Segal** <span id="8.3.2"></span> 
 -   **Reading: Wikipedia: “George Segal”**
     Link: Wikipedia: [“George
-    Segal”](http://www.saylor.org/site/wp-content/uploads/2011/05/George-Segal.pdf)
+    Segal”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/George-Segal.pdf)
     (PDF)  
         
      Instructions: Read this article as a summary of George Segal’s life
