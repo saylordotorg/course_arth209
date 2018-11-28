@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
 **10.2 Installation Art** <span id="10.2"></span> 
 -   **Reading: Wikipedia: “Installation Art”**
     Link: Wikipedia: [“Installation
-    Art”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Installation-art.pdf)
+    Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Installation-art.pdf)
     (PDF)  
         
      Instructions: Read this article as a summary of installation art.  
@@ -177,7 +177,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Wikipedia: “Land Art”**
     Link: Wikipedia: [“Land
-    Art”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Land-Art.pdf)
+    Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Land-Art.pdf)
     (PDF)  
         
      Instructions: Read this article as a summary of land art.  
